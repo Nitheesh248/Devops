@@ -3,8 +3,6 @@ saveetha engineering college
 computer science and engineering
 21228104121
 mathsmatic
-<<<<<<< HEAD
 4 years experience
-=======
 10 lpa
->>>>>>> bbbfc143d8dde479fbe737c981193b090394f6aa
+
